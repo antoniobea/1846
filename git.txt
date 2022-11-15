@@ -1,0 +1,8 @@
+PS C:\Users\Tardes\Documents\11-14> git init
+git add *.*
+git commit -m "EJERCICIO PREVIO A LA EVALUACIÓN"
+git config --global core.autocrlf true 
+git tag -a v.1.0.0 -m " "
+git push --tags
+git remote add origin https://github.com/antoniobea/eval-continua.git
+git push -u origin main

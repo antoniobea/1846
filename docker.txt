@@ -1,0 +1,3 @@
+docker pull node:19-slim
+docker build -t eval .
+docker run -it -p 4000:4500 eval

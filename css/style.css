@@ -1,0 +1,14 @@
+.container{
+    width: 1000px;
+    margin: 0 auto ;
+}
+.cita{
+    border: 2px solid blue;
+    border-radius: 8px;
+    border-collapse: separate;
+    padding: 3px;
+    margin: 5px;
+}
+h2{
+    color: blue;
+}
